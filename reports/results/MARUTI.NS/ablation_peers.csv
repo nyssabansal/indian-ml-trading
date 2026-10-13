@@ -1,0 +1,3 @@
+Model,RMSE (%),MAE (%),Direction accuracy (%),Skill vs predict-0 (%),Features
+Decision Tree — Own features only,3.470347171101381,2.5783249389804967,51.5527950310559,-5.722761529283948,11
+Decision Tree — Own + supplier/peer features,3.470347171101381,2.578324938980497,51.5527950310559,-5.722761529283948,61
